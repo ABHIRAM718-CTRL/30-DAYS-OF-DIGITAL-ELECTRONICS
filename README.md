@@ -1,30 +1,31 @@
-# 50-days-digital-design-rtl
-# Digital Design & RTL Foundations
+# 30 Days of Digital Electronics
 
-Documenting my **50 Days of Digital Design & RTL Foundations** journey through consistent learning, handwritten notes, Verilog implementation, FSM design, timing concepts, and frontend VLSI fundamentals.
+This repository documents my 30-day learning journey through Digital Electronics, with a focus on building strong fundamentals for RTL Design, Frontend VLSI, FPGA/ASIC roles, and GATE ECE preparation.
 
 ## Topics Covered
 
 * Logic Gates & Boolean Algebra
-* K-Maps
 * Number Systems
+* SOP & POS Forms
+* Minterms & Maxterms
+* Karnaugh Maps (K-Maps)
 * Combinational Circuits
 * Sequential Circuits
-* FSMs & Sequence Detectors
+* Flip-Flops & Registers
+* Finite State Machines (FSMs)
 * Static Timing Analysis
-* CMOS Basics
-* Verilog HDL
+* Digital Logic Design Fundamentals
 
 ## Repository Includes
 
 * Handwritten Notes
-* Verilog Codes
-* Waveforms
-* Timing Diagrams
-* FSM Representations
-* Practice Implementations
+* Solved Problems
+* Circuit Diagrams
+* Daily Learning Updates
+* Practice Work & Observations
 
 ## Goal
 
-Building stronger foundations in Digital Design, RTL systems, and frontend VLSI through structured learning and hands-on practice.
+To strengthen my Digital Electronics fundamentals through consistent daily learning and documentation while preparing for future opportunities in RTL Design, Frontend VLSI, FPGA/ASIC engineering, and GATE ECE.
 
+◇ Consistency over intensity. Small progress every day adds up.
